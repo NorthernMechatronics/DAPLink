@@ -54,7 +54,7 @@ static void prerun_board_config(void)
 
 const board_info_t g_board_info = {
     .info_version = 0x1,
-    .family_id = kAmbiq_ama3b1kk_FamilyID,
+    .family_id = kAmbiq_ama3bxkk_FamilyID,
     .daplink_url_name = "ARTEMIS_HTM",
     .daplink_drive_name = "ARTEMIS    ",
     .daplink_target_url = "https://www.sparkfun.com/artemis",
